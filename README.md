@@ -29,6 +29,7 @@ To this end, we employ finite mixture models fit to data on county-level drillin
 Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clusters in the model: the topmost row shows the one-cluster model, the middle row shows the two-cluster model, and the last row shows the three-cluster model. Columns vary by the cluster in which each county is classified. Thus, the first plot (top-left corner) highlights all counties in our analytic sample. The second row of plots splits counties into two clusters: early drilling (the left plot) and late drilling (the right plot). The third-row splits counties into three clusters: early drilling, middle drilling, and late drilling. Clusters are always ordered by the “peak year,” i.e. year of the maximum parameter.
 
 
+
 # Table of contents
 
 - [Project Title](#project-title)
@@ -75,12 +76,8 @@ Scripts:
 
 
 
-
-
 # Development
 [(Back to top)](#table-of-contents)
-
-
 
 
 
@@ -89,22 +86,12 @@ Scripts:
 
 
 
-
-
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
-
-
-
-
-
 # License
 [(Back to top)](#table-of-contents)
 
 
 
-
-
 # Footer
 [(Back to top)](#table-of-contents)
+
 
