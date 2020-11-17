@@ -11,11 +11,11 @@
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
-![GitHub all releases](https://img.shields.io/github/downloads/navendu-pottekkat/awesome-readme/total):
+![GitHub all releases](https://img.shields.io/github/downloads/jordanjpappas/Oil_Gas_Cluster_Analysis/total):
 
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+![GitHub](https://img.shields.io/github/license/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
 
 
