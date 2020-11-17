@@ -23,7 +23,7 @@ To this end, we employ finite mixture models fit to data on county-level drillin
 
 
 
-# Demo-Preview
+# Preview
 
 ![](https://github.com/jordanjpappas/Portfolio/blob/master/images/O%26G-cluster_maps.png)
 Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clusters in the model: the topmost row shows the one-cluster model, the middle row shows the two-cluster model, and the last row shows the three-cluster model. Columns vary by the cluster in which each county is classified. Thus, the first plot (top-left corner) highlights all counties in our analytic sample. The second row of plots splits counties into two clusters: early drilling (the left plot) and late drilling (the right plot). The third-row splits counties into three clusters: early drilling, middle drilling, and late drilling. Clusters are always ordered by the “peak year,” i.e. year of the maximum parameter.
@@ -32,7 +32,7 @@ Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clust
 # Table of contents
 
 - [Project Title](#project-title)
-- [Demo-Preview](#demo-preview)
+- [Preview](#preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -43,15 +43,21 @@ Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clust
 - [License](#license)
 - [Footer](#footer)
 
+
+
 # Installation
 [(Back to top)](#table-of-contents)
 
+1. Download and install RStudio (https://rstudio.com/products/rstudio/download/)
+2. Download and install Python (https://www.python.org/downloads/)
 
 
 
 # Usage
 [(Back to top)](#table-of-contents)
 
+Scripts:
+* Analysis is run in the order shown below.
 - init-jordan.R: Load packages and set directory hidden objects.
 - 00-collectwelldata.R: Import drilling data, filter by production types (i.e. 'OIL & GAS','GAS','OIL','GAS OR COALBED','CBM'), and aggregate data to county-year level.
 - 01-convert_BOE.R: Convert drilling data to barrels of oil (BOE) production data.
@@ -69,8 +75,11 @@ Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clust
 
 
 
+
+
 # Development
 [(Back to top)](#table-of-contents)
+
 
 
 
@@ -82,9 +91,9 @@ Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clust
 
 
 
-
 ### Adding new features or fixing bugs
 [(Back to top)](#table-of-contents)
+
 
 
 
