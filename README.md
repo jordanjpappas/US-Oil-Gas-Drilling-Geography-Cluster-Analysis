@@ -11,6 +11,7 @@ The last two decades have witnessed revolutionary changes in America’s upstrea
 To this end, we employ finite mixture models fit to data on county-level drilling shares by year. We find that two clusters reduce the sum of squared errors by about one third, while third and fourth clusters add only 7.5 and 5 percentage points additional explanatory power, respectively. Our main takeaway is that counties can be categorized into old versus new drilling, with relatively little room for additional typologies. Our approach allows us to spatially identify old drilling and new drilling counties, which we map and compare with well-known oil and gas fields.
 
 
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/jordanjpappas/Oil_Gas_Cluster_Analysis)
@@ -39,8 +40,6 @@ Figure 2: Maps of Drilling Counties by Cluster. Rows vary by the number of clust
 - [Usage](#usage)
 - [Development](#development)
 - [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
 - [Footer](#footer)
 
