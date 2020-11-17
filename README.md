@@ -7,9 +7,9 @@
 <br /> • Prepare research paper for publication using ggplot2, Microsoft Word.
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+![GitHub last commit](https://img.shields.io/github/last-commit/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/jordanjpappas/Oil_Gas_Cluster_Analysis)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
