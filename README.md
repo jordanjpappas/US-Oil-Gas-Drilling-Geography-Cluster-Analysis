@@ -48,13 +48,13 @@
 
 - init-jordan.R: 
 - 00-collectwelldata.R: 
-- 01-BOE_conversion.R: 
-- 1a-mixedmodels.R: 
-- 1b-mixedmodels_BOE.R: 
-- 2a-sum_of_squares.py: 
-- 2b-mapping.R: 
-- 2c-shaleplaymap.R: 
-- 3-drilling_summstats.py: 
+- 01-convert_BOE.R: 
+- 1a-run_mixedmodels.R: 
+- 1b-run_mixedmodels_BOE.R: 
+- 2a-plot_sum_of_squares.py: 
+- 2b-map_states.R: 
+- 2c-map_shale_plays.R: 
+- 3-calculate_summ_stats.py: 
 - 4a-construct_county_shares.R: 
 - 4b-construct_play_shares.R: 
 - 5-compare_weighted_unweighted_approach.R: 
