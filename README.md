@@ -66,7 +66,7 @@ Scripts:
     - 2a-plot_sum_of_squares.py: Calculate sum of squares measure for various cluster model outputs and plot scree visualization
     - 2b-map_states.R: Plot various state geography cluster model outputs
     - 2c-map_shale_plays.R: Plot various shale play geography cluster model outputs
-    - 3-calculate_summ_stats.py: (pending)
+    - 3-calculate_summ_stats.py: Calculate key variable summary statistics
     - 4a-construct_county_shares.R: Construct state-level dataset that counts number of counties in each cluster by state
     - 4b-construct_play_shares.R: Construct play-level dataset that counts number of counties in each cluster by state
     - 5-compare_weighted_unweighted_approach.R: Compare unweighted and weighted approach cluster results
