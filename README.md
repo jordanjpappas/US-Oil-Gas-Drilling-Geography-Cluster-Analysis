@@ -2,8 +2,9 @@
 * Disclaimer: This analysis is currently preliminary and pending publication.
 
 ### Coauthors:
-- Jordan Pappas, University of Rochester
 - Richard DiSalvo, Princeton University
+- Elaine Hill, University of Rochester
+- Jordan Pappas, University of Rochester
 
 ### Abstract:
 The last two decades have witnessed revolutionary changes in America’s upstream oil and gas industry, with a meteoric rise in total production and a shift in where this production takes place. Many researchers have used the shift in the geographic location of drilling to study the effects of oil and gas development on local communities. In this paper we seek, to the extent possible, a stylized representation of this recent geographic shift. Specifically, we ask to what extent the timing of drilling across counties in the contiguous United States over the last two decades can be explained by places of old drilling versus places of new drilling, or if there are significant shares of additional categories of counties, e.g. places that have experienced both.
